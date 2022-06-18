@@ -1,4 +1,4 @@
-# Water-hyacinth-project
+# GISTDA Project
 A part of project for Geo-Informatics and Space Technology Development Agency (GISTDA Thailand), applying image processing to calculate percentage of pixels of water hyacinth from images from drone in Tha Chin river, Nakhon Pathom
 
 
